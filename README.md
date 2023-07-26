@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SEGA2370
 - 👀 I’m interested in Android Development 
-- 🌱 I’m currently learning Android Developer
+- 🌱 I’m currently learning Android Developer (Kotlin)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Contacts
 - Email-Sega2370@gmail.com
