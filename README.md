@@ -4,7 +4,7 @@
 - 💞️ I’m looking to Drop Some Demo Projects from my Studies Soon 
 - 📫 How to reach me
 - Contacts
-- Email-Sega2370@gmail.com
+- Email-Sega23700@gmail.com
 - Telegram - What's-app +992 882826969
 
 <!---
