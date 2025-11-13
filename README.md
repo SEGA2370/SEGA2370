@@ -1,54 +1,73 @@
-# 👋 Hi, I’m SEGA2370
+# 👋 Hi, I’m Siyovush (SEGA2370)
 
-🎮 I’m a passionate **Unity Game Developer**, focused on creating fun and creative experiences across **PC, WebGL, and Android** platforms.
+🎮 **Indie Unity Game Developer** focused on creating fun, responsive and replayable games for **PC, Android and WebGL**.
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 I hold a **Master’s degree in (Applied Mathematics & Informatics)** — although to be honest, it was mostly formal and didn’t contribute much to my practical skills.
-- ✅ I’ve completed the **Unity Game Development** course (*from Zero to Middle Level*) on the **Skillbox online platform**.
-- 📱 I also finished a **basic Kotlin Android app development course** over a year ago.
+- 🧠 Master’s degree in **Applied Mathematics & Informatics (ПМИ)**  
+- 🎓 Completed **Unity Game Development (Zero → Middle)** at *Skillbox*  
+- 📱 Finished a **basic Kotlin Android app development** course (*Ilmhona*)  
+- 🌍 Languages: **Tajik, Russian, English** (fluent), **Arabic & Persian** (intermediate)
+
+I’m transitioning from non-IT jobs into full-time game development and building a strong portfolio of polished, small games.
 
 ---
 
-## 🧩 What I’m Working On
+## 🛠 Tech Stack
 
-- Publishing demo projects from my Unity training.
-- Exploring mechanics like multiplayer, ragdoll physics, and endless runners.
-- Improving code quality, optimization, and UI polish for mobile and web games.
+**Game Dev**
+- Unity (2D & 3D)
+- C# (gameplay, UI, architecture)
+- Physics, animation controllers, enemy AI, traps, projectiles
+- Mobile & WebGL builds, basic optimization (pooling, batching, sprite atlases)
+
+**Other**
+- Kotlin (basic, Android apps)
+- HTML / CSS / JS (basic)
+- Git & GitHub
+- Blender (basic), Photoshop, simple UI/UX layouting
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎮 Games & Prototypes
 
-- **Languages**: C# (main), Kotlin (basic),
-- **Engines**: Unity (2D/3D), Android Studio (basic)
-- **Platforms**: PC, Android, WebGL
-- **Version Control**: Git & GitHub
+Most projects are available here:  
+➡️ **GitHub:** [github.com/SEGA2370](https://github.com/SEGA2370)
+
+Some of my notable games:
+
+- **Comandante** — 2D platformer about a mythical Che Guevara, exploring jungles and dungeons with enemies, traps and coins.
+- **Save Drogo** — 2D platformer about a mythical Drogo, exploring & Escaping dungeons with enemies, traps rescuing frogs.  
+- **PixBit** — Flappy-style arcade with retro visuals and AI-generated backgrounds & music.  
+  👉 [PixBit on Google Play](https://play.google.com/store/apps/details?id=com.SeG2370.PixBit&pcampaignid=web_share)  
+- **Save Village** — Survival/strategy: recruit soldiers using wheat and defend your village from waves of enemies.  
+- **Great Asteroids** — Space shooter with multiple ships and maps, made for PC/WebGL.  
+- **Endless Driving** — 3D endless runner inspired by Subway Surfers, but with cars.  
+- **Fruit Ninja Clone** — Slice-based arcade with touch and mouse input.  
+- **RagDoll Multiplayer** — Small online physics playground.  
+- **WildBall** — Physics-based dungeon escape with traps.
+
+---
+
+## 📈 What I’m Currently Doing
+
+- Polishing and publishing Unity demo projects from my training.
+- Learning more about:
+  - mobile optimization,
+  - better code architecture (events, ScriptableObjects, patterns),
+  - monetization (AdMob, IAP), and
+  - juiciness (feel, feedback, VFX, SFX).
+- Actively looking for **remote Junior / Trainee Unity Developer** opportunities.
 
 ---
 
 ## 📬 How to Reach Me
 
-- 📧 **Email**: Sega23700@gmail.com  
-- 💬 **Telegram / WhatsApp**: +992 882 826 969
+- 📧 **Email:** [sega23700@gmail.com](mailto:sega23700@gmail.com)  
+- 💬 **Telegram / WhatsApp:** `+992 882 826 969`  
+- 🧾 **CV:** available on request (Unity / GameDev focused)  
 
----
-
-## 🎯 Goal
-
-To build real-world experience, land a remote job in game development, and keep growing every day by making games I enjoy!
-
----
-
-## 📂 Projects
-
-Explore my Unity projects and prototypes here:  
-➡️ [github.com/SEGA2370](https://github.com/SEGA2370)
-
-> Thanks for visiting — feel free to connect or give feedback on my projects!
-<!---
-SEGA2370/SEGA2370 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Thanks for visiting my profile!  
+> Feel free to open issues, send feedback, or just say hi — I’m always happy to learn and improve.
